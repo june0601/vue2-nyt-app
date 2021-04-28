@@ -48,7 +48,8 @@ export default {
   data() {
     return {
       articles: [],
-      form: {}
+      form: {},
+      invalid:""
     };
   },
   methods: {

@@ -19,6 +19,8 @@ npm run build
 ```
 npm run lint
 ```
+### Install all the libraries
+npm i axios bootstrap-vue vee-validate vue-filter-date-format
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
